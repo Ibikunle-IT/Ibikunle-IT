@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibikunle Temitayo Ilerioluwa
 - 👀 I’m interested in Automobile Engineering
-- 🌱 I’m currently learning Mechanical Engineering
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on CAD/CAM projects
 - 📫 How to reach me @temi_ileri on IG, tiibikunle@gmail.com
 - ⚡ Fun fact: ...
